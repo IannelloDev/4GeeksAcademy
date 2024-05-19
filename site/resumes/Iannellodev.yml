@@ -1,0 +1,69 @@
+template: "online-cv"
+skin: "ceramic"
+
+basic_info:
+  first_name: Luis Fernando
+  last_name: Iannello
+  motto: Full-stack Developer in progress
+  avatar: https://avatars2.githubusercontent.com/u/71892894?s=400&
+  summary: |
+    Actualmente estudiando para convertirme en el mejor programador.
+
+  email: luis.iannello3@gmail.com
+  phone: 678 028 610
+  website:
+  linkedin: https://www.linkedin.com/in/luis-iannello-61b77588/
+  github: IannelloDev
+  twitter:
+  stack-overflow:
+
+  languages:
+    - idiom: Spanish
+      level: Native
+
+    - idiom: English
+      level: Professional
+
+    - idiom: Italian
+      level: Basic
+
+  interests:
+    - item: Coding
+
+    - item: Dogs
+
+    - item: Football
+
+    - item: Photography
+
+education:
+  - degree: Lic. Administración de Empresa
+    university: Colegio Universitario de Caracas
+    time: 5 years
+    details:
+
+experiences:
+  - role: Student
+    time: Currently
+    company: 4Geeks Academy
+    details: Practicing with javascript!
+
+projects:
+  intro: >
+    There are some of my github projects for the 4GeeksAcademy course!
+
+  assignments:
+    - title: Instagram Bootsrap
+      link: https://github.com/IannelloDev/Bootstrap-luis/blob/main/bootstrap-luis
+      tagline: "A responsive Bootstrap website template created to display posts and switch from grid to list view.   --"
+
+skills:
+  toolset:
+    - name: Python
+      level: 25%
+
+    - name: Javascript
+      level: 20%
+
+    - name: HTML5 & CSS
+      level: 85%
